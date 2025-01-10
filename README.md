@@ -10,6 +10,4 @@
 ![image](https://github.com/user-attachments/assets/cd277adb-66e5-4add-9a4b-94c814016201)
 
 
-
-
-3、![image](https://github.com/user-attachments/assets/ce21ed1a-eba8-42ee-aec7-2d68389b3084) 代码运行报错 暂未修复
+3、![image](https://github.com/user-attachments/assets/ce21ed1a-eba8-42ee-aec7-2d68389b3084) 
